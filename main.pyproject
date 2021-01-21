@@ -1,3 +1,3 @@
 {
-    "files": ["calculator.ui","ui_calculator.py","main.py","operation.py","resources.qrc",".gitignore"]
+    "files": ["src/calculator.ui","src/ui_calculator.py",".gitignore","src/operation.py","docs/CODE_OF_CONDUCT.md","src/main.py","src/resources.qrc","docs/CONTRIBUTING.md","docs/LICENSE"]
 }
