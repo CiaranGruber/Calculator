@@ -143,3 +143,4 @@ UI-Creator.bat
 
 # Qt for Python
 *.pyproject.user
+*.py.autosave
