@@ -1,0 +1,3 @@
+{
+    "files": ["calculator.ui","ui_calculator.py","main.py","operation.py","resources.qrc",".gitignore"]
+}
